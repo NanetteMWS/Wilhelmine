@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Wilhelmine von Brandenburg-Bayreuth an Friedrich II., König von Preußen, 1755-12-06</title><author><persName>Wilhelmine von Brandenburg-Bayreuth</persName></author><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp><name>Rashid Sascha Pegah</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Günter Berger</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></titleStmt><editionStmt><edition>Digital critical commented edition</edition><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Rashid Sascha Pegah</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/mrk.html">Markup Editor</resp><name>Yvonne Rehhahn</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trl.html">Translator</resp><name>Günter Berger</name><name>Cornelia Klettke</name><name>Rashid Sascha Pegah</name><name>Franziska Windt</name><name>Cordula Wöbbeking</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></editionStmt><publicationStmt><publisher><orgName role="host">perspectivia.net</orgName><email>redaktion@perspectivia.net</email><address><addrLine>Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im
+                        Ausland, Rheinallee 6, D-53173 Bonn</addrLine></address></publisher><availability><licence target="https://creativecommons.org/licenses/by/4.0/"><p>CC-BY 4.0</p></licence></availability><idno type="URLWeb">https://quellen.perspectivia.net/de/wilhelmine/232_src</idno><idno type="URLXML">http://durl.maxweberstiftung.de/quellen/wb/tei/WB-232-1755-12-08-TEI.xml</idno></publicationStmt><sourceDesc><bibl>GStA PK, BPH, Rep. 46 König Friedrich Wilhelm I., W Nr. 17, Bd. III, Fasz. 6, fol. 13r-15r.</bibl></sourceDesc></fileDesc><endcodingDesc><editorialDecl><p>The letters were transcribed in their original spelling. In order to improve the readability of the texts, editorial additions were made. In some cases, a normalized orthography was inserted and abbreviations resolved. TEi Tags used: addition, correction, deletion, expansion, gap, lb, note, pb, sup, supplied.</p></editorialDecl></endcodingDesc><profileDesc><langUsage><language ident="fra"/></langUsage><correspDesc ref="https://quellen.perspectivia.net/de/wilhelmine/232_src" source="#u67fba5a-e081-4c44-972b-9a123fb8e085"><correspAction type="sent"><persName>Wilhelmine von Brandenburg-Bayreuth</persName><settlement> </settlement><date when="1755-12-06">1755-12-06</date></correspAction><correspAction type="received"><persName>Friedrich II., König von Preußen</persName></correspAction></correspDesc></profileDesc></teiHeader><text><body>
+    
+    
+        
+            
+                <p>Mon tres cher Frere</p>
+                <p><gap>[…]</gap> <pb/><gap> [… ]</gap>Jl
+                        faut<corr>[,]</corr> mon cher Frere<corr>[,]</corr>que vous ayez la Bagette des Feés pour avoir en
+                        si peu de tems amassé une si grande Colection de Tableaux et surtout deux
+                        Corege. Je n’ai vu qu’un petit Tableau de sa Facon dans tout mon voyage
+                        n’ayant point été a Milan qui est L’Unique endroit d’Jtalie ou il s’en
+                        trouve. J’ose encore prendre La liberté de vous recomenderMinx qui est de
+                        L’aveu de tous les Conoisseurs un des plus grands homes qu<corr>[’]</corr>il y est <corr>[ait ]</corr>eu, et qu’on mett a Coté de
+                        Raphaël<corr>[.]</corr> <pb/><del>[S]</del>selon mes peu de Conoissances je le preffererois<corr>[,]</corr> son Colori etant beaucoup plus beau. J’ai recu heureusement
+                        mes petites empletes d’Jtalie. J’ai trouvé un petit tableau d’ouvrage de
+                        Florance que j’ai aquis par un Hazard<corr>[,]</corr> quoi qu<corr>[’]</corr>il ne soit pas de la premiere
+                        Classe<corr>[,]</corr> je prends la Liberté de vous l’envoyer. Jl est
+                        Jmpossible d’en avoir par raport au terribles deffences de L’emp<expan>[ereur]</expan>: qui entretiens la
+                        fabrique a ses depends. J<corr>[’]</corr>espere qu<corr>[’]</corr>il poura remplir un petit Coin dans La Gallerie, Puisqu’on
+                        n’en a pas vu de pareills en Alemagne<corr>[,]</corr> hors a Vienne.
+                        Si on avoit La quantité de Pierres differantes il seroit facile de
+                        L’Jmiter<corr>[,]</corr> mais il faut des Magazins entiers pour <pb/>chercher les nuances. Les Gazetes ne sont remplies que d’evenements effrayants.
+                        L´accidont arrivé a Lisbone fait tremir. On conte des merveilles aussi d´un
+                        Lac dans votre Païs. Voila bien des sujets de raissonnements pour Mrs Les
+                        Phisiciens. Tous nos Pedants disent que La Comette de Cesar est en Chemin
+                        pour venir nous vitriffier. Je trouve cette Idie fort divertissante finir
+                        pour finir il vaut mieux etre metamorphosé en Statue de Verre que d´etre
+                        mangé des verts. Je me figure meme que dans quelque milliers d´années La
+                        terre reprendra son Anciene forme, et qui’alors je serai placée dans quel
+                        que Cabinet ou Jardin dont je ferai L´ornement. Qui scait meme <pb/>si Les nouveaux habitants le La
+                        terre ne nous adorerons pas Come des Divinitez. Mais je ne pensse pas que je
+                        vous ennuye mon tres cher Frere par mes Folies. Je laisse la L´avenir pour
+                        jouir du presant en vous assurant de la Tendresse et
+                        du profond respect avec lequel je suis<corr>[,]</corr></p>
+                <p>Mon tres cher Frere<corr>[,]</corr><lb/>Votre tres humble obeïssante Soeur et Servante <lb/>Wilhelmine</p>
+                <p><supplied>[s. l.]</supplied>Le
+                        8<del>[6]</del>de Dec<expan>[embre]</expan>1755</p>
+            
+        
+    
+</body></text></TEI>

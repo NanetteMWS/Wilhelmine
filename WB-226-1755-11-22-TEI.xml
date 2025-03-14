@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Wilhelmine von Brandenburg-Bayreuth an August Wilhelm, Prinz von Preußen, 1755-11-22</title><author><persName>Wilhelmine von Brandenburg-Bayreuth</persName></author><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp><name>Rashid Sascha Pegah</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Günter Berger</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></titleStmt><editionStmt><edition>Digital critical commented edition</edition><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Rashid Sascha Pegah</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/mrk.html">Markup Editor</resp><name>Yvonne Rehhahn</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trl.html">Translator</resp><name>Günter Berger</name><name>Cornelia Klettke</name><name>Rashid Sascha Pegah</name><name>Franziska Windt</name><name>Cordula Wöbbeking</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></editionStmt><publicationStmt><publisher><orgName role="host">perspectivia.net</orgName><email>redaktion@perspectivia.net</email><address><addrLine>Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im
+                        Ausland, Rheinallee 6, D-53173 Bonn</addrLine></address></publisher><availability><licence target="https://creativecommons.org/licenses/by/4.0/"><p>CC-BY 4.0</p></licence></availability><idno type="URLWeb">https://quellen.perspectivia.net/de/wilhelmine/226_src</idno><idno type="URLXML">http://durl.maxweberstiftung.de/quellen/wb/tei/WB-226-1755-11-22-TEI.xml</idno></publicationStmt><sourceDesc><bibl>GStA PK, BPH, Rep. 46 König Friedrich Wilhelm I., W Nr. 18, fol. 237r-238r [olim Prod. 187.].</bibl></sourceDesc></fileDesc><endcodingDesc><editorialDecl><p>The letters were transcribed in their original spelling. In order to improve the readability of the texts, editorial additions were made. In some cases, a normalized orthography was inserted and abbreviations resolved. TEi Tags used: addition, correction, deletion, expansion, gap, lb, note, pb, sup, supplied.</p></editorialDecl></endcodingDesc><profileDesc><langUsage><language ident="fra"/></langUsage><correspDesc ref="https://quellen.perspectivia.net/de/wilhelmine/226_src" source="#u67fba5a-e081-4c44-972b-9a123fb8e085"><correspAction type="sent"><persName>Wilhelmine von Brandenburg-Bayreuth</persName><settlement> </settlement><date when="1755-11-22">1755-11-22</date></correspAction><correspAction type="received"><persName>August Wilhelm, Prinz von Preußen</persName></correspAction></correspDesc></profileDesc></teiHeader><text><body>
+    
+    
+        
+            <supplied>[s. l. ]</supplied>Le 22 de Nov<expan>[embre]</expan>
+                1755
+            <gap>[… ]</gap>mon tres cher
+                Frere
+                <gap>[… ]</gap>Si votre Bource est Etique la miene est
+                    aux abois. Vous avez depencé en habits<corr>[,]</corr> Festins ect: et moi en Anthiquité<corr>[.]</corr> La differance qu<corr>[’]</corr>il y a, est que vous avez bon
+                                    credit au lieux que je n’ai rien a esperer<corr>[.]</corr>
+                La pauvre Amelie est dans le meme cas. Elle me fait grande a
+                    Compassion. Si j’etois d’elle je me retirervois a mon Abteï. Croyez moi il y a
+                    bien de l’agreoment d’etre son propre Maître, elle n<corr>[‘]</corr> aura j’amais cett avanta<corr>[-]</corr><pb/>ge
+                                a Berlin,<corr>[.]</corr>
+                Si la R<expan>[eine]</expan>
+                M<expan>[ère]</expan><note>[ Sophie
+                    Dorothea]</note>
+                venoit a mourir le Roi lui augementeroit surement son apanage. Mais avec tous cella elle no sera j´amais assé <corr>[assez ]</corr>bien dans ses affaires pour
+                        pouvoir figurer. Nous venons de perdre le pauvre Col<expan>[onel]</expan>: Bonnin
+                <note>[unleserlich überschrieben ]</note>est une perte
+                    ireparable. C’etoit un honet hom<expan>[m]</expan>e qui joi avoit les talents et la Capacieté a la Droiture. Je
+                ne scai qui aura sa place<corr>[.]</corr> Je suis fort surprise de
+                ce que me mandé Du Duc de Nivernais. Selon mes nouvelles on avoit changé d’avis sur
+                son Ambas<expan>[sador]</expan>: <note>[Il][? ][unleserlich
+                    ]</note>devoit aller a Turin. Ce qu<corr>[‘]</corr>il y a de
+                certain c’est qu<corr>[‘]</corr>il prendra sa route<note>[? ]</note>par ici s’il va encore a Berlin.
+                Mandé <corr>[Mandez ]</corr>moi<corr>[,]</corr> je vous prie<corr>[,]</corr> ce que vous penssez de la Galerie de Tableau de Sanssouci<corr>[;]</corr>
+                entre nous soit dit<corr>[,]</corr> le Roi est horriblement trompé. Jl n’a pas un Original Francois et d’Jtaliens<corr>[,]</corr>
+                il n<corr>[’]</corr>y en a pas un dans la Galerie a Berlin. Je lui ai Jndiqué deux <del>[ceu]</del><note>[?]</note> Peintre a Rome <note>[über der Zeile geschrieben: ]</note><sup>dont</sup>
+                <del>[qu’]</del>on estime <note>[über der Zeile geschrieben: ]</note><sup>l’un</sup> a L’egal de Raphael, il se nome Minx. Jl est aussi fort pour le dessein, et L’ordonance <del>[L’e…
+                                ]</del>et L’emporte par le Colloris. L’autre est Batoni qui <pb/>est fort au dessus de Carlo Marat<corr>[,]</corr> mais qui peint dans son gout. J’ai voulu vous faire la galanterie d’un tableau, mais ces M<expan>[essieu]</expan><sup>rs</sup> sont Diablement poivrés. La Colection de Statues et de Buste que j’ai faite est magniffique<del>[ et p]</del><corr>[,]</corr>
+                et je n’ai proprement payé que le marbre. J’ai 69 pieces grandes
+                    et petites<corr>[,]</corr>
+                parmi les quelles il y en a de la premiere Classe. J’attens les
+                    Balots avec Jmpatience. Avec 10 milles ecus j’aurois pu faire avoir au Roi des
+                    pieces sans prix s’il avoit voullu me conffier cette Som<expan>[m]</expan>e<corr>[.]</corr>
+                <lb/>Adieu<corr>[,]</corr>
+                cher Frere<corr>[,]</corr>
+                je finis ce long Bavardage<corr>[,]</corr> et vous reïterant les Sentiments de mon coeur qui vous est tout devoué
+            Wilhelmine
+        
+    
+</body></text></TEI>
